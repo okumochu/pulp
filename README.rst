@@ -1,6 +1,17 @@
 pulp
 **************************
 
+.. note::
+
+   This is a personal reference fork of `coin-or/pulp <https://github.com/coin-or/pulp>`_.
+   It is retained for learning and reference, not maintained as a separate PuLP distribution.
+   No independent solver or algorithm contribution is claimed by this fork.
+
+   For current releases, support, and contribution guidelines, use the upstream
+   repository and `official documentation <https://coin-or.github.io/pulp/>`_.
+   The upstream README below is preserved from this fork's historical snapshot;
+   its environment and installation details may differ from current releases.
+
 .. image:: https://travis-ci.org/coin-or/pulp.svg?branch=master
     :target: https://travis-ci.org/coin-or/pulp
 .. image:: https://img.shields.io/pypi/v/pulp
